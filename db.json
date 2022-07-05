@@ -1,0 +1,53 @@
+{
+  "eventos": [
+    {
+      "descricao": "Estudar React",
+      "inicio": "2022-07-15T09:00",
+      "fim": "2022-01-15T13:00",
+      "completo": false,
+      "id": 100
+    },
+    {
+      "descricao": "Estudar Recoil",
+      "inicio": "2022-07-03T09:00",
+      "fim": "2022-01-16T11:00",
+      "completo": false,
+      "id": 101
+    },
+    {
+      "descricao": "Estudar NextJs",
+      "inicio": "2022-07-09T09:00",
+      "fim": "2022-01-16T11:00",
+      "completo": false,
+      "id": 102
+    },
+    {
+      "descricao": "Estudar TypeScript",
+      "inicio": "2022-07-02T09:00",
+      "fim": "2022-01-16T11:00",
+      "completo": false,
+      "id": 103
+    },
+    {
+      "descricao": "Estudar Phyton",
+      "inicio": "2022-07-05T09:00",
+      "fim": "2022-01-16T11:00",
+      "completo": false,
+      "id": 104
+    },
+    {
+      "descricao": "Estudar useState",
+      "inicio": "2022-07-11T09:00",
+      "fim": "2022-01-16T11:00",
+      "completo": false,
+      "id": 105
+    },
+    {
+      "descricao": "Estudar Async",
+      "inicio": "2022-07-16T09:00",
+      "fim": "2022-01-16T11:00",
+      "completo": false,
+      "id": 106
+    }
+  ]
+}
